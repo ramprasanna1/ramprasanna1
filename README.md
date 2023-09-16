@@ -6,7 +6,7 @@
 <img align = "right" height ="200" width = "500" src = "https://4.bp.blogspot.com/-dlCrtErIyM8/VaXdqTriepI/AAAAAAAAB60/JubYhXYyHuM/s1600/iron%2Bman%2Bgif%2Bimages%2Bon%2Bmithileshjoshi.blogspot.com%2Bjarvis%2Bshell%2Bcommands%2B%252810%2529.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ram-prasanna-pn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ram prasanna pn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ram-prasanna-pn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ram prasanna pn" height="30" width="40" /></a>
 <a href="https://instagram.com/live2_me_alone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="live2_me_alone" height="30" width="40" /></a>
 </p>
 
